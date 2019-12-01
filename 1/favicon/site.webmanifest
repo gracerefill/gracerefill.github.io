@@ -1,0 +1,14 @@
+{
+    "name": "Elegant Group",
+    "short_name": "Elegant Group",
+    "icons": [
+        {
+            "src": "/favicon/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fe7948",
+    "background_color": "#fe7948",
+    "display": "standalone"
+}

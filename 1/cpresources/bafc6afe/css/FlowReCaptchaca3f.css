@@ -1,0 +1,17 @@
+/**
+ * FlowReCaptcha plugin for Craft CMS
+ *
+ * FlowReCaptcha CSS
+ *
+ * @author    Flow Communications
+ * @copyright Copyright (c) 2018 Flow Communications
+ * @link      https://www.flowsa.com
+ * @package   FlowReCaptcha
+ * @since     0.0.1
+ */
+[data-type*="flowrecaptcha"] {
+    margin-bottom: 0;
+ }
+[data-type*="flowrecaptcha"] > label {
+    display: none;
+}
