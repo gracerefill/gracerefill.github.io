@@ -1,0 +1,9 @@
+/*
+CSS Name: Default Styles
+Description: NextGEN Default Gallery Stylesheet
+Author: Imagely
+Version: 2.13
+
+This stylesheet is provided to allow users the ability of overriding the default styles for all display types
+*/
+{.supercrsl a.superprev, .supercrsl a.supernext{ background-color: rgba(255, 255, 255, 0.3); }
